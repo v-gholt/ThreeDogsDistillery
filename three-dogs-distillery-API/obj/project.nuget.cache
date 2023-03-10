@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "h2kcWiNo2twt6G7Olk4UfKrBWhtLfvli1GjGsHk92rcL9dZxxiPY8KZsXG0TS8j7cYEPin/PdeuWdZWqmQMFAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v-gholt\\ThreeDogsDistillery\\three-dogs-distillery-API\\three-dogs-distillery-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-gholt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\v-gholt\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\v-gholt\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\v-gholt\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\v-gholt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\v-gholt\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
